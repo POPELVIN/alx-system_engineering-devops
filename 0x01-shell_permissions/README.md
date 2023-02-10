@@ -4,3 +4,4 @@
 3-chwon betty hello	Write a script that changes the owner of the file hello to the user betty.
 4-touch hello	Write a script that creates an empty file called hello.
 5-chmod u+x hello	Write a script that adds execute permission to the owner of the file hello.
+6-chmod ug+x,o+r hello	Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
