@@ -8,3 +8,4 @@
 7-chmod ugo+x hello	Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 8-chmod 007 hello	Write a script that sets the permission to the file hello as follows:
 9-chmod 753 hello	Write a script that sets the mode of the file hello to this:
+10-chmod --reference=olleh hello	Write a script that sets the mode of the file hello the same as olleh’s mode.
